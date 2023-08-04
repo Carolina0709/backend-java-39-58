@@ -15,7 +15,10 @@ En este proyecto encontrarás diferentes algoritmos que solucionan los problemas
 ## 2. ¿Qué construí?
 Esta guía de trabajo consta de 14 ejercicios, donde sus clases se dividen en 2: 
 + Entidades: Que contienen los atributos, constructores, getters and setters (según la necesidad de cada clase, hay algunas que incluyen también los métodos en esta).
-+ Servicios: Que contienen los métodos, menus, y funciones necesarias para que la entidad pueda ser usada correctamente. 
++ Servicios: Que contienen los métodos, menus, y funciones necesarias para que la entidad pueda ser usada correctamente.
+
+Dichos ejercicios van desde modelar objetos de "Cuenta bancaria", "Cafetera" y "Persona" hasta trabajar con Date y la creación de vectores.  
+
 Nota: Las indicaciones de cada ejercicio se encuentran en un comentario al inicio de cada entidad. Las clases son llamadas desde el menu principal que se encuentra en la clase Ej_encuentro_39_58. 
 
 ## 3. Objetivo de los ejercicios
